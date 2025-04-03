@@ -1,0 +1,62 @@
+body {
+    background: url(https://s1.stc.all.kpcdn.net/putevoditel/projectid_379258/images/tild3039-6666-4161-a365-323931623037__steam-locomotive-339.jpg);
+}
+
+
+
+.cccp {
+    width: 300px;
+    font-size: 17px;
+    background-color:  rgb(255, 255, 255);
+    color: #000000;
+    opacity: 0.8;
+    margin-left: 4px;
+    margin-top: 20px;
+    padding: 10px;
+    border: solid black 1px;
+}
+
+
+.cccp1 {
+    width: 260px;
+    background-color: #ffffff;
+    margin-left: 4px;
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 17px;
+    border: solid black 1px;
+}
+
+span {
+    color: orangered;
+}
+
+
+.knopka {
+    width: 200px;
+    padding: 20px 10px;
+    margin: 40px;
+    font-size: 23px;
+    background-color: black;
+    color: #ffffff;
+    border-radius: 9px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.cccp2 {
+    height: 100px;
+    margin: -20px;
+    font-size: 20px;
+    position: absolute;
+    top: 4000px;
+    left: 45px;
+}
+
+h1, h2, hr {
+    width: 350px;
+}
